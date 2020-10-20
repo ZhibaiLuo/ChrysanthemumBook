@@ -1,2 +1,2 @@
 # ChrysanthemumBook
- A depository to record all my Python tricks!
+ A repository to record all my Python tricks!
